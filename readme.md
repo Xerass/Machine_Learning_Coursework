@@ -1,1 +1,1 @@
-Course work from ML related courses/labs im taking
+Course work from ML related courses/labs im taking.
